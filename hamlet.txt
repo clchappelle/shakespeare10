@@ -3,3 +3,6 @@ HAMLET
 KING: I'm a ghost
 
 POLONIUS: I'm behind a curtain!
+
+The end
+END
